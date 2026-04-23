@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Data & Models
+uploads/
+hasil/log/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
