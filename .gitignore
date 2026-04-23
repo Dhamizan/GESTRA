@@ -9,8 +9,8 @@ venv/
 .env
 
 # Data & Models
-uploads/
-hasil/log/*.csv
+# uploads/
+# hasil/log/*.csv
 
 # OS
 .DS_Store
